@@ -1,0 +1,40 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background: url("../img/picture.png");
+    color:white;
+}
+#sounds{
+    height: 44.5vh;
+    width: 100%;
+    text-align: center;
+  
+}
+#channels{
+    height: 44.5vh;
+    width: 100%;
+}
+.a{
+    width: 25%;
+    float: left;
+    height: 44.5vh;
+    text-align: center;
+}
+button{
+    height:20vh;
+    border-radius: 50%;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+audio{
+    width: 25%;
+    height: 5vh;
+    margin-left: 6vh;
+    margin-top: 5vh;
+}
